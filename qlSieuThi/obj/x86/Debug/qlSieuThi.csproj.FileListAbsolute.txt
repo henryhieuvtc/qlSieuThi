@@ -1,0 +1,1130 @@
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\App.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\BanHang.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\Kho.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\KiemKeHangHoa.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\MainPage.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\NhapHang.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\ThongKe.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.xr.xml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.exe
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.pdb
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\resources.pri
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\AppxManifest.xml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\AppxManifest.xml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\qlSieuThi.exe
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.build.appxrecipe
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Core.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Web.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Windows.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.Linq.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.Serialization.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Tools.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Tracing.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.Calendars.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Extensions.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Primitives.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Resources.ResourceManager.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Handles.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.InteropServices.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Timer.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Debug.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.FileSystem.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Primitives.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Sockets.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Extensions.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\clrjit.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\clrcompression.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.Uri.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.AppContext.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Buffers.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Concurrent.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.NonGeneric.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Specialized.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.Annotations.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Data.Common.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Contracts.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Dynamic.Runtime.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.Extensions.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.Compression.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.IsolatedStorage.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Expressions.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Parallel.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Queryable.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Http.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Http.Rtc.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.NameResolution.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.NetworkInformation.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Requests.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.WebSockets.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.WebSockets.Client.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.Vectors.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ObjectModel.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.DataContractSerialization.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.ServiceModel.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Context.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Numerics.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Claims.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Principal.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Duplex.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Http.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Primitives.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Security.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.RegularExpressions.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Overlapped.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.ReaderWriter.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XDocument.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XmlDocument.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XmlSerializer.dll
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\App.g.i.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.g.i.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.g.i.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.g.i.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.g.i.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.g.i.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.g.i.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\XamlTypeInfo.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\App.xaml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.xaml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.xaml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.xaml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.xaml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.xaml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.xaml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\App.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.xbf
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\XamlSaveStateFile.xml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.exe
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.pdb
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\ResourceHandlingTask.state
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\priconfig.xml
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\layout.resfiles
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\resources.resfiles
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\pri.resfiles
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\admin\documents\visual studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\qlSieuThi\qlSieuThi\bin\x86\Debug\QuanLy.xbf
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.g.i.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.xaml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\App.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\BanHang.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Kho.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\KiemKeHangHoa.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\MainPage.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\NhapHang.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\QuanLy.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\ThongKe.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.xr.xml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.exe
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.pdb
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\resources.pri
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\AppxManifest.xml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\qlSieuThi.exe
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.build.appxrecipe
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Core.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Windows.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.AppContext.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Data.Common.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\ClrCompression.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Http.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.csprojResolveAssemblyReference.cache
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.g.i.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.g.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.g.i.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.g.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.g.i.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.g.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.g.i.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.g.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.g.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.g.i.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.g.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.g.i.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.g.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.g.i.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.g.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.xaml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.xaml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.xaml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.xaml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.xaml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.xaml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.xaml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.xaml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.xbf
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.exe
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.pdb
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\priconfig.xml
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\layout.resfiles
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\resources.resfiles
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\pri.resfiles
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HenryLuu\Dropbox\VTC\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\App.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\BanHang.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Kho.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\KiemKeHangHoa.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\MainPage.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\NhapHang.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\QuanLy.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\ThongKe.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.xr.xml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.exe
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.pdb
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\resources.pri
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\AppxManifest.xml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\qlSieuThi.exe
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.build.appxrecipe
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Core.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Windows.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.AppContext.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Data.Common.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\ClrCompression.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Http.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.csprojResolveAssemblyReference.cache
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.g.i.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.g.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.g.i.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.g.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.g.i.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.g.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.g.i.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.g.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.g.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.g.i.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.g.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.g.i.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.g.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.g.i.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.g.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.xaml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.xaml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.xaml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.xaml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.xaml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.xaml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.xaml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.xaml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.xbf
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.exe
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.pdb
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\priconfig.xml
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\layout.resfiles
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\resources.resfiles
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\pri.resfiles
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\phat\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\App.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\BanHang.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Kho.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\KiemKeHangHoa.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\MainPage.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\NhapHang.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\QuanLy.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\ThongKe.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.xr.xml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.exe
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.pdb
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\resources.pri
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\AppxManifest.xml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\qlSieuThi.exe
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.build.appxrecipe
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Core.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Windows.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.AppContext.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Data.Common.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\ClrCompression.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Http.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.csprojResolveAssemblyReference.cache
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.g.i.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.g.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.g.i.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.g.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.g.i.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.g.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.g.i.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.g.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.g.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.g.i.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.g.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.g.i.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.g.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.g.i.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.g.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.xaml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.xaml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.xaml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.xaml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.xaml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.xaml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.xaml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.xaml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.xbf
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.exe
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.pdb
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\priconfig.xml
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\layout.resfiles
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\resources.resfiles
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\pri.resfiles
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AD\Dropbox\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\App.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\BanHang.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Kho.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\KiemKeHangHoa.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\MainPage.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\NhapHang.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\QuanLy.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\ThongKe.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.xr.xml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.exe
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.pdb
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\resources.pri
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\AppxManifest.xml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\qlSieuThi.exe
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.build.appxrecipe
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Core.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Windows.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.AppContext.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Data.Common.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\ClrCompression.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Http.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.csprojResolveAssemblyReference.cache
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.g.i.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.g.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.g.i.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.g.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.g.i.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.g.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.g.i.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.g.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.g.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.g.i.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.g.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.g.i.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.g.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.g.i.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.g.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.xaml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.xaml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.xaml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.xaml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.xaml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.xaml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.xaml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.xaml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\App.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\BanHang.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\Kho.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\KiemKeHangHoa.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MainPage.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\NhapHang.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\QuanLy.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ThongKe.xbf
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.exe
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.pdb
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\priconfig.xml
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\layout.resfiles
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\resources.resfiles
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\pri.resfiles
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HenryLuu\Desktop\New folder (2)\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\ProjectArchitectures.txt
