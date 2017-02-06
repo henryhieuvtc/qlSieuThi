@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>057d6292-00ec-4cd2-a04d-7287cec130f0</PackageIdentityName>
     <PackageIdentityPublisher>CN=Admin</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-05T13:07:37.412</Modified>
+      <Modified>2017-02-06T12:30:19.623</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.exe">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.exe">
       <PackagePath>entrypoint\qlSieuThi.exe</PackagePath>
-      <Modified>2017-02-05T13:07:34.783</Modified>
+      <Modified>2017-02-06T12:30:17.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HenryLuu\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -448,68 +448,68 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-22T16:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\Assets\icon\iconsignin2.png">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Assets\icon\iconsignin2.png">
       <PackagePath>Assets\icon\iconsignin2.png</PackagePath>
-      <Modified>2016-12-27T14:51:42.421</Modified>
+      <Modified>2017-02-05T13:42:25.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\Assets\icon\iconsignin.png">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Assets\icon\iconsignin.png">
       <PackagePath>Assets\icon\iconsignin.png</PackagePath>
-      <Modified>2016-12-26T13:09:30.257</Modified>
+      <Modified>2017-02-05T13:42:25.782</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2015-09-20T10:30:08.000</Modified>
+      <Modified>2017-02-05T13:42:25.770</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T10:30:08.000</Modified>
+      <Modified>2017-02-05T13:42:25.773</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T10:30:08.000</Modified>
+      <Modified>2017-02-05T13:42:25.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T10:30:08.000</Modified>
+      <Modified>2017-02-05T13:42:25.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T10:30:08.000</Modified>
+      <Modified>2017-02-05T13:42:25.778</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T10:30:08.000</Modified>
+      <Modified>2017-02-05T13:42:25.779</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T10:30:08.000</Modified>
+      <Modified>2017-02-05T13:42:25.780</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2016-12-26T12:22:48.089</Modified>
+      <Modified>2017-02-05T13:42:25.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.xr.xml">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.xr.xml">
       <PackagePath>qlSieuThi.xr.xml</PackagePath>
-      <Modified>2016-12-29T12:04:42.130</Modified>
+      <Modified>2017-02-05T13:42:37.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-10-19T17:04:47.583</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-05T13:07:37.037</Modified>
+      <Modified>2017-02-06T12:30:19.206</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\New folder %282%29\QLSieuThi\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\qlSieuThi.exe">
+    <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\qlSieuThi.exe">
       <PackagePath>qlSieuThi.exe</PackagePath>
-      <Modified>2017-02-05T13:07:37.407</Modified>
+      <Modified>2017-02-06T12:30:19.613</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
