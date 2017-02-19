@@ -1,4 +1,6 @@
-﻿using System;
+﻿using qlSieuThi.Model;
+using System;
+using System.IO;
 using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
@@ -12,6 +14,10 @@ namespace qlSieuThi
     /// </summary>
     public sealed partial class BanHang : Page
     {
+        string path;
+        SQLite.Net.SQLiteConnection connHangHoa;
+        SQLite.Net.SQLiteConnection connBanHang;
+
         public bool PPAddhoadonIsOpen { get; set; } = false;
         public bool PPTraThongTinIsOpen { get; set; } = false;
         public bool PPGuiyeucauIsOpen { get; set; } = false;
@@ -19,8 +25,21 @@ namespace qlSieuThi
         public BanHang()
         {
             this.InitializeComponent();
-            
+            path = Path.Combine(Windows.Storage.ApplicationData.Current.LocalFolder.Path, "db.sqlite");
+            connHangHoa = new SQLite.Net.SQLiteConnection(new
+               SQLite.Net.Platform.WinRT.SQLitePlatformWinRT(), path);
+            connHangHoa.CreateTable<CHangHoa>();
+            //lưu trữ các đơn hàng bán ra 
+            connBanHang = new SQLite.Net.SQLiteConnection(new
+               SQLite.Net.Platform.WinRT.SQLitePlatformWinRT(), path);
+            connBanHang.CreateTable<CBanHang>();
         }
+
+        private void searchHangHoa()
+        {
+
+        }
+
         private void SplitViewButton_Click(object sender, RoutedEventArgs e)
         {
             SplitView.IsPaneOpen = !SplitView.IsPaneOpen;

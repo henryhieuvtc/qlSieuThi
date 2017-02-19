@@ -95,6 +95,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Model\CBanHang.cs" />
     <Compile Include="Model\CHangHoa.cs" />
     <Compile Include="Model\CNhanVien.cs" />
     <Compile Include="View\BanHang.xaml.cs">

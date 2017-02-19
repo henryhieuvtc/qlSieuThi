@@ -17,7 +17,7 @@ namespace qlSieuThi
     public sealed partial class Kho : Page
     {
         string path;
-        SQLite.Net.SQLiteConnection conn;
+        SQLite.Net.SQLiteConnection connHangHoa;
 
         public bool PPAddsanphamIsOpen { get; set; } = false;
         public bool PPYeucauIsOpen { get; set; } = false;
@@ -27,9 +27,9 @@ namespace qlSieuThi
         {
             this.InitializeComponent();
             path = Path.Combine(Windows.Storage.ApplicationData.Current.LocalFolder.Path, "db.sqlite");
-            conn = new SQLite.Net.SQLiteConnection(new
+            connHangHoa = new SQLite.Net.SQLiteConnection(new
                SQLite.Net.Platform.WinRT.SQLitePlatformWinRT(), path);
-            conn.CreateTable<CHangHoa>();
+            connHangHoa.CreateTable<CHangHoa>();
         }
         private void SplitViewButton_Click(object sender, RoutedEventArgs e)
         {
@@ -145,7 +145,7 @@ namespace qlSieuThi
         {
             string id = "1"; //get id hang hoa
 
-            CHangHoa hanghoa = (from p in conn.Table<CHangHoa>() where p.Id == "10" select p).FirstOrDefault();
+            CHangHoa hanghoa = (from p in connHangHoa.Table<CHangHoa>() where p.Id == "10" select p).FirstOrDefault();
             string ten = "";
             int soluong = hanghoa.Soluong + 10;
             string congty = "";
@@ -153,14 +153,14 @@ namespace qlSieuThi
 
 
 
-            var s = conn.InsertOrReplace(new CHangHoa() {
+            var s = connHangHoa.InsertOrReplace(new CHangHoa() {
                 Id = id, Ten = ten, Soluong = soluong, Congty = congty
             });
         }
 
         private void getSanPham() {
-            var query = conn.Table<CHangHoa>();
-            List<CHangHoa> listHangHoa = (from p in conn.Table <CHangHoa>() select p).ToList();
+            var query = connHangHoa.Table<CHangHoa>();
+            List<CHangHoa> listHangHoa = (from p in connHangHoa.Table <CHangHoa>() select p).ToList();
             string id = "";
             string name = "";
             int soluong = 0;

@@ -14,13 +14,9 @@ namespace qlSieuThi.Model
         public string Ten { get; set; }
         public string Congty { get; set; }
         public int Soluong { get; set; }
+        public long Gianhap { get; set; }
+        public long Giaban { get; set; }
 
         public CHangHoa() { }
-
-        public CHangHoa(string id, string ten, int soluong) {
-            Id = id;
-            Ten = ten;
-            Soluong = soluong;
-        }
     }
 }
