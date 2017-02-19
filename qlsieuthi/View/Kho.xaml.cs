@@ -68,6 +68,19 @@ namespace qlSieuThi
             });
         }
 
+        private void searchHangHoa()
+        {
+            string id = txtID.Text;
+            CHangHoa hanghoa = (from p in connHangHoa.Table<CHangHoa>() where p.Id == id select p).FirstOrDefault();
+            if(hanghoa != null)
+            {
+                txtTenSP.Text = hanghoa.Ten;
+                txtCongty.Text = hanghoa.Congty;
+               
+            }
+            //display thông tin cho hàng hóa
+        }
+
         private void getSanPham()
         {
             //var query = connHangHoa.Table<CHangHoa>();
@@ -129,6 +142,7 @@ namespace qlSieuThi
                 PPLichSu.IsOpen = false;
                 PPLichsuIsOpen = false;
             }
+            getSanPham();
         }
         private void XuatSanpham_Click(object sender, RoutedEventArgs e)
         {
@@ -244,6 +258,11 @@ namespace qlSieuThi
             getSanPham();
             PPThemSP.IsOpen = false;
             PPThemSPIsOpen = false;
+        }
+
+        private void txtID_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            searchHangHoa();
         }
     }
 }
