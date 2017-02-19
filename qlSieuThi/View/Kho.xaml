@@ -7,13 +7,10 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" >
         <SplitView x:Name="SplitView" PaneBackground="#FF917C1E" OpenPaneLength="200" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.Below="SplitViewButton" >
             <SplitView.Pane>
-
-
                 <RelativePanel>
-
                     <AppBarButton x:Name="BackgroundButton" IsCompact="True" Click="SplitViewButton_Click" Icon="List" Foreground="White" Height="48" Width="48"/>
                     <TextBlock Text="LOGO"  
                                RelativePanel.RightOf="BackgroundButton" RelativePanel.AlignVerticalCenterWith="BackgroundButton" Foreground="White"/>
@@ -57,7 +54,7 @@
                                 </ListView>
                                 <TextBlock x:Name="txtTongTien" Text="Tổng tiền: "  HorizontalAlignment="Right" RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="dsHoaDon"  Margin="10,0,10,0"/>
                                
-                                
+                     
                                 <Button x:Name="btnHuyHoaDon" Content="Hủy" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignBottomWithPanel="True" RelativePanel.Below="txtTongTien"  Margin="0,10,10,10"/>
                                 <Button x:Name="btnNhapLai" Content="Nhập lại" RelativePanel.LeftOf="btnHuyHoaDon" RelativePanel.AlignVerticalCenterWith="btnHuyHoaDon"/>
                                 <Button x:Name="btnNhapsanpham" Content="Nhập sản phẩm" RelativePanel.LeftOf="btnNhapLai" RelativePanel.AlignVerticalCenterWith="btnNhapLai" Click="btnNhapsanpham_Click"/>

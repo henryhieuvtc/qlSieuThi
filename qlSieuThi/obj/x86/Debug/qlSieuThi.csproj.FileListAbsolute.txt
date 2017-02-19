@@ -1350,3 +1350,5 @@ C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\obj\x86\Debug\qualifiers.txt.inter
 C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\obj\x86\Debug\qlSieuThi.csprojResolveAssemblyReference.cache
+C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\SQLite.Net.Platform.WinRT.dll
+C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\SQLite.Net.dll

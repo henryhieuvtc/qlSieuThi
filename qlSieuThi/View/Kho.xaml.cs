@@ -1,5 +1,8 @@
-﻿using System;
+﻿using qlSieuThi.Model;
+using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
@@ -13,6 +16,9 @@ namespace qlSieuThi
     /// </summary>
     public sealed partial class Kho : Page
     {
+        string path;
+        SQLite.Net.SQLiteConnection conn;
+
         public bool PPAddsanphamIsOpen { get; set; } = false;
         public bool PPYeucauIsOpen { get; set; } = false;
         public bool PPGuiyeucauIsOpen { get; set; } = false;
@@ -20,6 +26,10 @@ namespace qlSieuThi
         public Kho()
         {
             this.InitializeComponent();
+            path = Path.Combine(Windows.Storage.ApplicationData.Current.LocalFolder.Path, "db.sqlite");
+            conn = new SQLite.Net.SQLiteConnection(new
+               SQLite.Net.Platform.WinRT.SQLitePlatformWinRT(), path);
+            conn.CreateTable<CHangHoa>();
         }
         private void SplitViewButton_Click(object sender, RoutedEventArgs e)
         {
@@ -41,6 +51,7 @@ namespace qlSieuThi
         {
             if (PPAddsanphamIsOpen)
             {
+                addSanPham();
                 PPAddsanpham.IsOpen = false;
                 PPAddsanphamIsOpen = false;
             }
@@ -54,7 +65,9 @@ namespace qlSieuThi
                 else dsHoaDon.Width = Window.Current.Bounds.Width - 68;
                 txtTongTien.Width = dsHoaDon.Width;
                 PPAddsanphamIsOpen = true;
+                getSanPham();
             }
+          
         }
         private void XuatSanpham_Click(object sender, RoutedEventArgs e)
         {
@@ -128,14 +141,39 @@ namespace qlSieuThi
         {
         }
 
-        string path;
-        private void Page_Loaded(object sender, RoutedEventArgs e)
+        private void addSanPham()
         {
-            path = Path.Combine(Windows.Storage.ApplicationData.
-                Current.LocalFolder.Path, "db.sqlite");
+            string id = "1"; //get id hang hoa
 
-            SQLite.Net.SQLiteConnection conn = new SQLite.Net.SQLiteConnection(new
-               SQLite.Net.Platform.WinRT.SQLitePlatformWinRT(), path);
+            CHangHoa hanghoa = (from p in conn.Table<CHangHoa>() where p.Id == "10" select p).FirstOrDefault();
+            string ten = "";
+            int soluong = hanghoa.Soluong + 10;
+            string congty = "";
+
+
+
+
+            var s = conn.InsertOrReplace(new CHangHoa() {
+                Id = id, Ten = ten, Soluong = soluong, Congty = congty
+            });
         }
+
+        private void getSanPham() {
+            var query = conn.Table<CHangHoa>();
+            List<CHangHoa> listHangHoa = (from p in conn.Table <CHangHoa>() select p).ToList();
+            string id = "";
+            string name = "";
+            int soluong = 0;
+
+            foreach (var message in query)
+            {
+                id = id + " " + message.Id;
+                name = name + " " + message.Ten;
+                soluong = message.Soluong;
+            }
+            txtTenNV.Text =listHangHoa[0].Id +" "+ listHangHoa[0].Soluong.ToString();
+        }
+
     }
+
 }

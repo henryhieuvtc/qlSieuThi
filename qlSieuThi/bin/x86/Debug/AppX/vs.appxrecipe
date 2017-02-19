@@ -16,7 +16,7 @@
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>8F884F3A83A4162FA84C4A1600E0C3A5969288E3B7D212B937D66E2192262C87</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>A7D92937CFC36A31E6FBF8FE0A72B3203F4B023323228CE52893DDBE451666CA</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>057d6292-00ec-4cd2-a04d-7287cec130f0_1.0.0.0_x86__5gyrq6psz227t</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>057d6292-00ec-4cd2-a04d-7287cec130f0_5gyrq6psz227t!App</RegisteredUserModeAppID>
     <RegisteredPackageID>057d6292-00ec-4cd2-a04d-7287cec130f0</RegisteredPackageID>
@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-06T12:30:19.623</Modified>
+      <Modified>2017-02-19T08:47:03.115</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.exe">
       <PackagePath>entrypoint\qlSieuThi.exe</PackagePath>
-      <Modified>2017-02-06T12:30:17.727</Modified>
+      <Modified>2017-02-19T08:47:02.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HenryLuu\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -99,6 +99,14 @@
     <AppxPackagedFile Include="C:\Users\HenryLuu\.nuget\packages\runtime.any.System.Private.DataContractSerialization\4.1.0\lib\netcore50\System.Private.DataContractSerialization.dll">
       <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
       <Modified>2016-02-21T14:35:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HenryLuu\.nuget\packages\SQLite.Net-PCL\3.1.1\lib\Windows8\SQLite.Net.Platform.WinRT.dll">
+      <PackagePath>SQLite.Net.Platform.WinRT.dll</PackagePath>
+      <Modified>2015-11-06T10:18:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HenryLuu\.nuget\packages\SQLite.Net.Core-PCL\3.1.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll">
+      <PackagePath>SQLite.Net.dll</PackagePath>
+      <Modified>2015-11-06T10:18:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HenryLuu\.nuget\packages\System.AppContext\4.0.0\lib\netcore50\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
@@ -448,6 +456,10 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-22T16:11:12.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UAP\v0.8.0.0\ExtensionSDKs\SQLite.UWP.2015\3.15.2\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2016-12-02T12:48:14.803</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\Assets\icon\iconsignin2.png">
       <PackagePath>Assets\icon\iconsignin2.png</PackagePath>
       <Modified>2017-02-05T13:42:25.784</Modified>
@@ -496,20 +508,20 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\qlSieuThi.xr.xml">
       <PackagePath>qlSieuThi.xr.xml</PackagePath>
-      <Modified>2017-02-05T13:42:37.043</Modified>
+      <Modified>2017-02-19T07:48:57.148</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2016-10-19T17:04:47.583</Modified>
+      <Modified>2017-02-06T13:54:47.576</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-06T12:30:19.206</Modified>
+      <Modified>2017-02-19T08:11:02.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\HenryLuu\Desktop\qlSieuThi\qlSieuThi\bin\x86\Debug\Core\qlSieuThi.exe">
       <PackagePath>qlSieuThi.exe</PackagePath>
-      <Modified>2017-02-06T12:30:19.613</Modified>
+      <Modified>2017-02-19T08:47:03.111</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
