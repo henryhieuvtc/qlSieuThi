@@ -46,12 +46,19 @@ namespace qlSieuThi
 
         private void addSanPham()
         {
-            string id = "1"; //get id hang hoa
-
-            CHangHoa hanghoa = (from p in connHangHoa.Table<CHangHoa>() where p.Id == "10" select p).FirstOrDefault();
-            string ten = "";
-            int soluong = hanghoa.Soluong + 10;
-            string congty = "";
+            string id = txtID.Text; //get id hang hoa
+            CHangHoa hanghoa = (from p in connHangHoa.Table<CHangHoa>() where p.Id == id select p).FirstOrDefault();
+            string ten = txtTenSP.Text;
+            int soluong;
+            if (hanghoa == null)
+            {
+                soluong = int.Parse(txtSoluong.Text);
+            }
+            else
+            {
+                soluong = hanghoa.Soluong + int.Parse(txtSoluong.Text);
+            }
+            string congty = txtCongty.Text;
             var s = connHangHoa.InsertOrReplace(new CHangHoa()
             {
                 Id = id,
@@ -63,19 +70,9 @@ namespace qlSieuThi
 
         private void getSanPham()
         {
-            var query = connHangHoa.Table<CHangHoa>();
+            //var query = connHangHoa.Table<CHangHoa>();
             List<CHangHoa> listHangHoa = (from p in connHangHoa.Table<CHangHoa>() select p).ToList();
-            string id = "";
-            string name = "";
-            int soluong = 0;
-
-            foreach (var message in query)
-            {
-                id = id + " " + message.Id;
-                name = name + " " + message.Ten;
-                soluong = message.Soluong;
-            }
-            txtTenNV.Text = listHangHoa[0].Id + " " + listHangHoa[0].Soluong.ToString();
+            dsHoaDon.ItemsSource = listHangHoa;
         }
 
 
@@ -237,6 +234,14 @@ namespace qlSieuThi
 
         private void btnBack_Click(object sender, RoutedEventArgs e)
         {
+            PPThemSP.IsOpen = false;
+            PPThemSPIsOpen = false;
+        }
+
+        private void btnLuu_Click(object sender, RoutedEventArgs e)
+        {
+            addSanPham();
+            getSanPham();
             PPThemSP.IsOpen = false;
             PPThemSPIsOpen = false;
         }
